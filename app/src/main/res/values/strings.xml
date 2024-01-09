@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BoatParis</string>
+    <string name="app_title">Boat Paris</string>
+    <string name="description">Discover Paris by Boating on the Seine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map2info">DISCOVER PARIS</string>
+    <string name="Tomap">RETURN MAP</string>
+    <string name="map2list">VISIT LIST</string>
+    <string name="chatgpt">View Description</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
